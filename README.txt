@@ -1,0 +1,1 @@
+The (updated) goal of this assignment is to learn and explore github and GIT.
